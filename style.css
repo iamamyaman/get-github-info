@@ -10,8 +10,8 @@ body{
     width:100vw;
     display: flex;
     justify-content: center;
-    align-items: center;
-    background-color: #E6D5B8
+    background-color: #E6D5B8;
+    margin-top:0;
    
 }
 
@@ -23,7 +23,7 @@ body{
     align-items: center; 
     text-align: center;
     gap:10px;
-    padding: 20px 0px;
+
 }
 
 .container h1{
